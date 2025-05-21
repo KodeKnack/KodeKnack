@@ -12,10 +12,6 @@ With hands-on experience in **Java**, **Python**, **Laravel**, **Figma**, **SQL*
 
 ---
 
-# Digital Portfolio – Work Readiness Training (PRP370S)
-
-Welcome to my digital portfolio, created as part of the **PRP370S Project Presentation 3** module at CPUT. This portfolio showcases my reflections and evidence across five career development areas, using the **STAR technique**. The portfolio integrates my professional experience, technical development, and achievements as a final-year ICT Applications Development student.
-
 ---
 
 ## 📁 1. Career Counselling
