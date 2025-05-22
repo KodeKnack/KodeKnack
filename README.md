@@ -50,13 +50,7 @@ The goal was to compile a detailed list of strengths, interests, and proficienci
 
 **A – Action:**  
 I completed a personal skills inventory highlighting my experience in:
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) - ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 I also noted soft skills like communication, leadership, and time management gained from my internship and volunteer roles.
 
