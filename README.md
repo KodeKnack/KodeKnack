@@ -10,6 +10,7 @@ Currently, I am completing my **Work Integrated Learning (WIL)** programme as a 
 With hands-on experience in **Java**, **Python**, **Laravel**, **Figma**, **SQL**, and **Git**, I bring a solid mix of front-end and back-end knowledge. I also have strong soft skills in communication, teamwork, event coordination, and time management. My goal is to build impactful digital products and grow as a full-stack developer while contributing meaningfully to team success.
 
 **Tech stack**
+
 proficient and using: 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white) 
 Currently learning and using:
