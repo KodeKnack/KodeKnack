@@ -9,7 +9,7 @@ Currently, I am completing my **Work Integrated Learning (WIL)** programme as a 
 
 With hands-on experience in **Java**, **Python**, **Laravel**, **Figma**, **SQL**, and **Git**, I bring a solid mix of front-end and back-end knowledge. I also have strong soft skills in communication, teamwork, event coordination, and time management. My goal is to build impactful digital products and grow as a full-stack developer while contributing meaningfully to team success.
 
-**Tech stack**
+**Tech stack:**
 
 Proficient and using:
 
@@ -19,9 +19,15 @@ Currently learning and using:
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
 
-**Tools and tech: 
+**Tools and tech:**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ---
 
 ---
