@@ -3,12 +3,6 @@
 
 ## 👤 About Me
 
-I am **Fhumulani Moses Makungo**, a **Diploma in ICT Applications Development** graduate from **Cape Peninsula University of Technology (CPUT)** with strong interests in software development, user interface design, and digital solutions.
-
-Previously served as a **Software Developer Intern** at **Plum Systems**, where I focused on building responsive web and mobile interfaces using **React** and **React Native**. I previously worked with the **NRF South African Astronomical Observatory (SAAO)**, supporting both technical and administrative projects, including app coordination and content development.
-
-With hands-on experience in **Java**, **Python**, **Laravel**, **Figma**, **SQL**, and **Git**, I bring a solid mix of front-end and back-end knowledge. I also have strong soft skills in communication, teamwork, event coordination, and time management. My goal is to build impactful digital products and grow as a full-stack developer while contributing meaningfully to team success.
-
 **Tech stack:**
 
 Proficient in using:
