@@ -1,12 +1,10 @@
 ## Hey, I'm Fhumu 👋
 
-Junior Software Developer · Cape Town, South Africa
+Junior Software Developer · Cape Town, South Africa.
 
 ---
 
 ## 🧑‍💻 About Me
-
-Frontend-focused developer with 2+ years of production experience building responsive web and mobile applications. Currently working at **Tech Hub Global** with React & .NET, previously at **Plum Systems** where I shipped features across live web and mobile platforms.
 
 I care about clean code, accessible UIs, and building things that actually help people.
 
