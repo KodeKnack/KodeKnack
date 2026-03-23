@@ -7,6 +7,8 @@ Junior Software Developer · Cape Town, South Africa.
 ## 🧑‍💻 About Me
 
 I care about clean code, accessible UIs, and building things that actually help people.
+## Hobbie & interests
+Life 
 
 ---
 
