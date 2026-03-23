@@ -1,6 +1,6 @@
 ## Hey, I'm Fhumu 👋
 
-Junior Software Developer · Cape Town, South Africa.
+Full-stack Software Developer · Cape Town, South Africa.
 
 ---
 
