@@ -32,6 +32,6 @@ Life
 
 ---
 
-## 📍 Portfolio
+## 📍 visit my website
 
-🔗 [fhumu.lovable.app](https://fhumu.lovable.app/)
+🔗 [fhumu.lovable.app](https:carpediemsolns.co.za/)
