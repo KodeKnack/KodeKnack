@@ -34,4 +34,4 @@ Life
 
 ## 📍 visit my website
 
-🔗 [fhumu.lovable.app](https:carpediemsolns.co.za/)
+🔗 [carpediemsolns.co.za](https:carpediemsolns.co.za/)
