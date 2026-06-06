@@ -34,4 +34,4 @@ Life
 
 ## 📍 visit my website
 
-🔗[carpediemsolns.co.za](https://carpediemsolns.co.za/)
+🔗 [carpediemsolns.co.za](https://carpediemsolns.co.za/)
